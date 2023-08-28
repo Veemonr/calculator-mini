@@ -1,0 +1,58 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+button{
+    width: 100px;
+    height: 90px;
+    color:black;
+    background-color: white;
+    font-size: 50px;
+    cursor: pointer;
+}
+.button-enter{
+    font-size:50px;
+    width:204px;
+}
+.button-reset{
+    font-size:50px;
+    width:412px;
+}
+button:hover {
+    background-color:lightgray;
+}
+.judul{
+    color:white;
+    font-size : 60px ;
+    text-align: center;
+    height: 60px;
+    width: 600px;
+    float:center;
+    margin: auto;
+    background-color: gray;
+    border: 10px black;
+    border-style:solid ;
+}
+.result{
+    color:black;
+    font-size : 60px ;
+    text-align: center;
+    height: 60px;
+    width: 600px;
+    float:center;
+    margin: auto;
+    background-color: white;
+    border: 10px black;
+    border-style:solid ;
+    opacity: 0.5;
+}
+.calculator{
+    width: 510px;
+    border: 10px blue;
+    border-style:solid ;
+    background-color: lightblue;
+    align-content: center;
+    padding-left: 90px;
+    margin:auto;
+    float:center;
+}
